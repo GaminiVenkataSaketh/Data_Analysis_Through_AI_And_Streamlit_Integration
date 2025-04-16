@@ -1,4 +1,4 @@
-# Data-Assistance-Through-AI-and-Streamlit-Integration-with-LangChain
+# Data-Analysis-Through-AI-and-Streamlit-Integration
 
 ## run the code
    ```
