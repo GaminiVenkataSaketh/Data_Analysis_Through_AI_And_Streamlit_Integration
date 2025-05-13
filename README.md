@@ -2,6 +2,6 @@
 
 ## run the code
    ```
-    streamlit run app_DS.py --server.enableXsrfProtection false
+    streamlit run .\final_code.py 
    ```
 
